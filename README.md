@@ -1,9 +1,9 @@
-# https-F2K229-GITHUB.github.io-recrutement-f2kmultiservice-
+BIENVENUE CHERS POSTULANT
 Site de recrutement de F2K MULTISERVICE
-html
-<!DOCTYPE html>
+Veux tu devenir notre partenaire, alors postulant sans attendre 
+F2kdigit Pro 
 <html lang="fr">
-<head>
+BONNE CHANCE !
   <meta charset="UTF-8">
   <title>F2K MULTISERVICES - Recrutement</title>
   <link rel="stylesheet" href="style.css">
@@ -42,7 +42,7 @@ html
   </section>
 
   <footer>
-    <p>F2K MULTISERVICES © 2026 | Contact : f2kservice@gmail.com</p>
+    <p>F2K MULTISERVICES © 2026 | Email : f2kservice@gmail.com</p>
   </footer>
 </body>
 </html>
